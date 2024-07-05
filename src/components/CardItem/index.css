@@ -1,0 +1,70 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  background-color: #ffffff;
+  width: 370px;
+  padding: 10px;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 1;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  background-color: #ffffff;
+  width: 370px;
+  padding: 10px;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 1;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  background-color: #ffffff;
+  width: 370px;
+  padding: 10px;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 1;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  background-color: #ffffff;
+  width: 370px;
+  padding: 10px;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 1;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+/* Write CSS code here. */
+.title {
+  font-size: 20px;
+}
+.img {
+  height: 100px;
+  width: 70px;
+  align-self: flex-end;
+  padding: 10px;
+}
